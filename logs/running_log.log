@@ -1,0 +1,11 @@
+[2021-12-05 14:30:42,145: INFO: 01_generate_img_pkl]: <<<<< stage_01 started
+[2021-12-05 14:30:42,145: INFO: all_utils]: Directory is created at artifacts\pickle_format_data
+[2021-12-05 14:30:42,283: INFO: 01_generate_img_pkl]: Total actors are: 100
+[2021-12-05 14:30:42,283: INFO: 01_generate_img_pkl]: Total actors images: 8664
+[2021-12-05 14:30:42,299: INFO: 01_generate_img_pkl]: stage_01 completed >>>>>
+[2021-12-05 14:31:03,642: INFO: 02_feature_extractor]: <<<<< stage_02 started
+[2021-12-05 14:31:18,720: INFO: all_utils]: Directory is created at artifacts\extracted_features
+[2021-12-05 14:31:18,720: INFO: 02_feature_extractor]: stage_02 completed >>>>>
+[2021-12-05 19:18:32,643: INFO: 02_feature_extractor]: <<<<< stage_02 started
+[2021-12-05 19:18:35,113: INFO: all_utils]: Directory is created at artifacts\extracted_features
+[2021-12-05 19:54:24,269: INFO: 02_feature_extractor]: stage_02 completed >>>>>
